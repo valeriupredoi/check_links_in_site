@@ -1,0 +1,7 @@
+---
+name: checklinks
+channels:
+  - conda-forge
+
+dependencies:
+  - beautifulsoup4
