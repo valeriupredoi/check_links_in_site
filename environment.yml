@@ -5,3 +5,4 @@ channels:
 
 dependencies:
   - beautifulsoup4
+  - python>=3.9
